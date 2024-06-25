@@ -65,7 +65,7 @@ This section of the workflow describes how to process UAS data for the CAREER pr
     - High quality
     - Aggressive depth filtering
     - check box for calculate point colors)
-14. Build DEM from dense cloud (workflow ->)   
+14. Build DSM from dense cloud (workflow ->)   
     - For orthomosaic generation – faster than mesh (but mesh may be required for complex terrain)  
     - Geographic type, check that it’s correct projection  
     - Source data: dense cloud  
